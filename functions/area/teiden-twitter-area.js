@@ -1,5 +1,6 @@
 /*
 LogicAppと連携して利用
+timerでxmlをhttp
 長野県
 静岡県
 */

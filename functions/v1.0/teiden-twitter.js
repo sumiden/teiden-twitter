@@ -1,4 +1,6 @@
 /*
+logicappと連携
+gmailトリガー
 2017/10/21 18:49時点
 xxx
 xxx
